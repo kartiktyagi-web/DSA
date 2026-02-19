@@ -2,11 +2,12 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int ans =0;
-
-        for(int val:nums){
-            ans=ans^val;
+        for(int i : nums){
+            ans ^=i;
+            
         }
-    return ans;
+        cout<<" "<<ans<<endl;
+        return ans;
+        
     }
-
 };
