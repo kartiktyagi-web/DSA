@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartiktyagi-web/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi-web/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kartiktyagi-web/DSA/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartiktyagi-web/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi-web/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
