@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi-web/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kartiktyagi-web/DSA/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi-web/DSA/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
