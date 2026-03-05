@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/kartiktyagi-web/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/kartiktyagi-web/DSA/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi-web/DSA/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/kartiktyagi-web/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
