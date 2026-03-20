@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kartiktyagi-web/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kartiktyagi-web/DSA/tree/master/0031-next-permutation) |
@@ -31,6 +32,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kartiktyagi-web/DSA/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -73,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartiktyagi-web/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kartiktyagi-web/DSA/tree/master/0069-sqrtx) |
