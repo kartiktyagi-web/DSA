@@ -91,4 +91,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/kartiktyagi-web/DSA/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
