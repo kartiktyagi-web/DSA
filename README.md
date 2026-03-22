@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/kartiktyagi-web/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/kartiktyagi-web/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi-web/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kartiktyagi-web/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kartiktyagi-web/DSA/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kartiktyagi-web/DSA/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +98,8 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kartiktyagi-web/DSA/tree/master/0006-zigzag-conversion) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
