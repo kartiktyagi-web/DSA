@@ -2,13 +2,20 @@ class Solution {
 public:
     int search(vector<int>& nums, int target) {
         int n=nums.size();
-        for(int i=0;i<n;i++){
-            
-            if(nums[i]==target){
-                cout<<" "<<i;
-                return i;
+        int st =0;int end=n-1;
+        
+        while(st<=end){
+            int mid=(st+end)/2;
+            if(target>nums[mid]){
+                st =mid+1;
+            }
+            if(target<nums[mid]){
+                end=mid-1;
+            }
+            if(target == nums[mid]){
+                return mid;
             }
         }
-             return -1;
-        }
+        return -1;
+    }
 };
