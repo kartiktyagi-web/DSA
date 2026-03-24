@@ -1,15 +1,16 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int n =nums.size();int i=0;
-         while (i<n){
-            if(i+1<n &&nums[i]==nums[i+1]){
-                i+=2;     
-            }
-            else{
-                return nums[i];
-            }
+        int st = 0, end = nums.size() - 1;
+        while (st < end) {
+            int mid = st + (end - st) / 2;
+            // Ensure mid is even for consistent pair comparison
+            if (mid % 2 == 1) mid--;
+            if (nums[mid] == nums[mid + 1])
+                st = mid + 2;  // pair is intact, unique is to the right
+            else
+                end = mid;     // pair is broken, unique is here or to the left
         }
-        return -1;
+        return nums[st];
     }
 };
