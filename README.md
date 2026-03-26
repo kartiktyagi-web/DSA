@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kartiktyagi-web/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kartiktyagi-web/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kartiktyagi-web/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/kartiktyagi-web/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi-web/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -95,6 +96,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kartiktyagi-web/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kartiktyagi-web/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
