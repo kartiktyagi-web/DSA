@@ -49,6 +49,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/kartiktyagi-web/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi-web/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -59,10 +60,12 @@
 | [0069-sqrtx](https://github.com/kartiktyagi-web/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kartiktyagi-web/DSA/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +133,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartiktyagi-web/DSA/tree/master/0054-spiral-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/1901-find-a-peak-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
