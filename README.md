@@ -23,6 +23,7 @@
 | [0136-single-number](https://github.com/kartiktyagi-web/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/kartiktyagi-web/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi-web/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -113,6 +115,7 @@
 | [0016-3sum-closest](https://github.com/kartiktyagi-web/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiktyagi-web/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kartiktyagi-web/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 ## Simulation
