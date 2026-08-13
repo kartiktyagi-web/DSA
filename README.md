@@ -93,6 +93,7 @@
 | [0001-two-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -117,6 +118,7 @@
 | [0075-sort-colors](https://github.com/kartiktyagi-web/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kartiktyagi-web/DSA/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
