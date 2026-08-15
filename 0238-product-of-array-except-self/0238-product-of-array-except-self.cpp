@@ -13,7 +13,6 @@ public:
             ans[i]=ans[i]*suf;
         }
 
-return ans ;
-
-            }
+           return ans ;
+ }
 };
