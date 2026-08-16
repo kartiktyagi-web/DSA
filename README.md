@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/kartiktyagi-web/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiktyagi-web/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi-web/DSA/tree/master/0238-product-of-array-except-self) |
@@ -88,6 +89,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi-web/DSA/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -109,6 +111,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kartiktyagi-web/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiktyagi-web/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
@@ -152,4 +155,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiktyagi-web/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
