@@ -87,6 +87,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiktyagi-web/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kartiktyagi-web/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/kartiktyagi-web/DSA/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -151,6 +152,7 @@
 | [0006-zigzag-conversion](https://github.com/kartiktyagi-web/DSA/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/kartiktyagi-web/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/kartiktyagi-web/DSA/tree/master/0344-reverse-string) |
 ## Counting
 |  |
 | ------- |
