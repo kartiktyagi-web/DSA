@@ -20,6 +20,7 @@
 | [0066-plus-one](https://github.com/kartiktyagi-web/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kartiktyagi-web/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartiktyagi-web/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kartiktyagi-web/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kartiktyagi-web/DSA/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@
 | [0027-remove-element](https://github.com/kartiktyagi-web/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kartiktyagi-web/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kartiktyagi-web/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kartiktyagi-web/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartiktyagi-web/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
@@ -138,6 +140,7 @@
 | [0016-3sum-closest](https://github.com/kartiktyagi-web/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiktyagi-web/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/kartiktyagi-web/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
