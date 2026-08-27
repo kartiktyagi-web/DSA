@@ -49,6 +49,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi-web/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/kartiktyagi-web/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/kartiktyagi-web/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartiktyagi-web/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Bit Manipulation
@@ -170,6 +171,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kartiktyagi-web/DSA/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/kartiktyagi-web/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/kartiktyagi-web/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
