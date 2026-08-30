@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kartiktyagi-web/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kartiktyagi-web/DSA/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/kartiktyagi-web/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kartiktyagi-web/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiktyagi-web/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kartiktyagi-web/DSA/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/kartiktyagi-web/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kartiktyagi-web/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kartiktyagi-web/DSA/tree/master/0344-reverse-string) |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kartiktyagi-web/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kartiktyagi-web/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
