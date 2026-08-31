@@ -85,6 +85,7 @@
 | [0069-sqrtx](https://github.com/kartiktyagi-web/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kartiktyagi-web/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
@@ -154,6 +155,7 @@
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kartiktyagi-web/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi-web/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/kartiktyagi-web/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kartiktyagi-web/DSA/tree/master/0875-koko-eating-bananas) |
