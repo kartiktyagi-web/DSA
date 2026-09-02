@@ -49,6 +49,7 @@
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kartiktyagi-web/DSA/tree/master/0875-koko-eating-bananas) |
+| [1470-shuffle-the-array](https://github.com/kartiktyagi-web/DSA/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi-web/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/kartiktyagi-web/DSA/tree/master/1920-build-array-from-permutation) |
