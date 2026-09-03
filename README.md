@@ -61,6 +61,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartiktyagi-web/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartiktyagi-web/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kartiktyagi-web/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/kartiktyagi-web/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
