@@ -49,6 +49,7 @@
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kartiktyagi-web/DSA/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/kartiktyagi-web/DSA/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi-web/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -119,6 +120,7 @@
 | [0283-move-zeroes](https://github.com/kartiktyagi-web/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi-web/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kartiktyagi-web/DSA/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -184,6 +186,7 @@
 | [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
