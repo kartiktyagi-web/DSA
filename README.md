@@ -56,6 +56,7 @@
 | [1929-concatenation-of-array](https://github.com/kartiktyagi-web/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartiktyagi-web/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartiktyagi-web/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0367-valid-perfect-square](https://github.com/kartiktyagi-web/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0523-continuous-subarray-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartiktyagi-web/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
