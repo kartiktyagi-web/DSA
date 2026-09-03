@@ -57,6 +57,7 @@
 | [1929-concatenation-of-array](https://github.com/kartiktyagi-web/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3151-special-array-i](https://github.com/kartiktyagi-web/DSA/tree/master/3151-special-array-i) |
+| [3467-transform-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartiktyagi-web/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartiktyagi-web/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kartiktyagi-web/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -187,6 +188,7 @@
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
+| [3467-transform-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | [0169-majority-element](https://github.com/kartiktyagi-web/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartiktyagi-web/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3467-transform-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
