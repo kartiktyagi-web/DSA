@@ -91,6 +91,7 @@
 | [0002-add-two-numbers](https://github.com/kartiktyagi-web/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kartiktyagi-web/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kartiktyagi-web/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kartiktyagi-web/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kartiktyagi-web/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartiktyagi-web/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/kartiktyagi-web/DSA/tree/master/0066-plus-one) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiktyagi-web/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kartiktyagi-web/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/kartiktyagi-web/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kartiktyagi-web/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kartiktyagi-web/DSA/tree/master/0217-contains-duplicate) |
@@ -208,6 +210,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiktyagi-web/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kartiktyagi-web/DSA/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/kartiktyagi-web/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartiktyagi-web/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kartiktyagi-web/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
