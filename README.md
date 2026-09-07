@@ -86,6 +86,7 @@
 | [0152-maximum-product-subarray](https://github.com/kartiktyagi-web/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/kartiktyagi-web/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0344-reverse-string](https://github.com/kartiktyagi-web/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartiktyagi-web/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kartiktyagi-web/DSA/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Counting
 |  |
 | ------- |
