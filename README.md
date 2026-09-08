@@ -310,4 +310,12 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/kartiktyagi-web/DSA/tree/master/2413-smallest-even-multiple) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/kartiktyagi-web/DSA/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/kartiktyagi-web/DSA/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
