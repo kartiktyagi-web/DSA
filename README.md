@@ -71,6 +71,7 @@
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi-web/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/kartiktyagi-web/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0367-valid-perfect-square](https://github.com/kartiktyagi-web/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1486-xor-operation-in-an-array](https://github.com/kartiktyagi-web/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/kartiktyagi-web/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/kartiktyagi-web/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kartiktyagi-web/DSA/tree/master/2469-convert-the-temperature) |
