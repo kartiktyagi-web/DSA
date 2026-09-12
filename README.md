@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kartiktyagi-web/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi-web/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartiktyagi-web/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kartiktyagi-web/DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -140,6 +141,7 @@
 | [0283-move-zeroes](https://github.com/kartiktyagi-web/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi-web/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kartiktyagi-web/DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kartiktyagi-web/DSA/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartiktyagi-web/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -170,6 +172,7 @@
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartiktyagi-web/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kartiktyagi-web/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -193,6 +196,7 @@
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kartiktyagi-web/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/kartiktyagi-web/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kartiktyagi-web/DSA/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
@@ -211,6 +215,7 @@
 | [0229-majority-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kartiktyagi-web/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartiktyagi-web/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
 | [3467-transform-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/3467-transform-array-by-parity) |
