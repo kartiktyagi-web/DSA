@@ -52,6 +52,7 @@
 | [0875-koko-eating-bananas](https://github.com/kartiktyagi-web/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/kartiktyagi-web/DSA/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartiktyagi-web/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi-web/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/kartiktyagi-web/DSA/tree/master/1920-build-array-from-permutation) |
@@ -218,6 +219,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kartiktyagi-web/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartiktyagi-web/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3467-transform-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
