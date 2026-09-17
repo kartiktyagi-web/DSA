@@ -112,6 +112,7 @@
 | [2235-add-two-integers](https://github.com/kartiktyagi-web/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/kartiktyagi-web/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/kartiktyagi-web/DSA/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/kartiktyagi-web/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/kartiktyagi-web/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kartiktyagi-web/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartiktyagi-web/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -157,6 +158,7 @@
 | [0238-product-of-array-except-self](https://github.com/kartiktyagi-web/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiktyagi-web/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2485-find-the-pivot-integer](https://github.com/kartiktyagi-web/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/kartiktyagi-web/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kartiktyagi-web/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
