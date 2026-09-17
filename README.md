@@ -52,6 +52,7 @@
 | [0875-koko-eating-bananas](https://github.com/kartiktyagi-web/DSA/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/kartiktyagi-web/DSA/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/kartiktyagi-web/DSA/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartiktyagi-web/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartiktyagi-web/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartiktyagi-web/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -91,6 +92,7 @@
 | [0392-is-subsequence](https://github.com/kartiktyagi-web/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartiktyagi-web/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0523-continuous-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kartiktyagi-web/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kartiktyagi-web/DSA/tree/master/0645-set-mismatch) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartiktyagi-web/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartiktyagi-web/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartiktyagi-web/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -206,6 +209,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/kartiktyagi-web/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kartiktyagi-web/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kartiktyagi-web/DSA/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartiktyagi-web/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/kartiktyagi-web/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Sorting
 |  |
@@ -271,6 +275,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartiktyagi-web/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kartiktyagi-web/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kartiktyagi-web/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kartiktyagi-web/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
