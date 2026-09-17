@@ -100,6 +100,7 @@
 | [0013-roman-to-integer](https://github.com/kartiktyagi-web/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kartiktyagi-web/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kartiktyagi-web/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/kartiktyagi-web/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/kartiktyagi-web/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kartiktyagi-web/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kartiktyagi-web/DSA/tree/master/0189-rotate-array) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartiktyagi-web/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kartiktyagi-web/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/kartiktyagi-web/DSA/tree/master/0060-permutation-sequence) |
 | [0509-fibonacci-number](https://github.com/kartiktyagi-web/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartiktyagi-web/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
